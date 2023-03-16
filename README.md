@@ -1,2 +1,1 @@
-# prepcourse-henry
-esta es una prueba de repositorio para henry  prep course
+este proyecto e suna prueba de como crear un repositorio y clonarlo a ami pc local
